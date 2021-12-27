@@ -8,6 +8,10 @@ nb是一种生成模型。之所以称为朴素，是因为它有有个重要的
 
 <img src="pics/v2-aa3de5dedc6452b0754e4ff8da852443_1440w.jpg" alt="img" style="zoom: 33%;" />
 
+[极大似然估计和贝叶斯定理](https://www.matongxue.com/madocs/447/)
+
+
+
 ## 习题
 
 ### 1. 用极大似然估计法推出朴素贝叶斯法中的概率估计公式(4.8)及公式 (4.9)。
