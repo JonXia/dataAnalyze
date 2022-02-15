@@ -203,7 +203,7 @@ class LRClassifier:
 
 
 
-代码来自：[统计学习方法习题解答]([第6章 Logistic回归与最大熵模型 (datawhalechina.github.io)](https://datawhalechina.github.io/statistical-learning-method-solutions-manual/#/chapter06/chapter06?id=习题61))
+代码来自：[第6章 Logistic回归与最大熵模型](https://datawhalechina.github.io/statistical-learning-method-solutions-manual/#/chapter06/chapter06?id=习题61)
 
 ```python
 from scipy.optimize import fminbound
